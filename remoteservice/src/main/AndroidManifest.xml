@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.remoteservice" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+             >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <service android:name=".RemoteService" android:process=":remote">
+            <intent-filter>
+                <!-- These are the interfaces supported by the service, which
+                     you can bind to. -->
+                <action android:name="com.example.android.apis.app.IRemoteService" />
+                <action android:name="com.example.android.apis.app.ISecondary" />
+                <!-- This is an action code you can use to select the service
+                     without explicitly supplying the implementation class. -->
+                <action android:name="com.example.android.apis.app.REMOTE_SERVICE" />
+            </intent-filter>
+        </service>
+        <activity android:name=".RemoteService$Binding"
+            android:label="@string/activity_remote_service_binding">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.SAMPLE_CODE" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

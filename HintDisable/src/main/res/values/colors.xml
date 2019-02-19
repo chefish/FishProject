@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teamsns_delete_btn_color_pressed">#00b17d</color>
+    <color name="teamsns_delete_btn_color">#16dbad</color>
+
+    <color name="teamsns_post_write_send_enable">#15d1a5</color>
+    <color name="teamsns_post_write_send">#cccccc</color>
+
+    <color name="teamsns_feed_text_bg_color_pressed">#f0f0f0</color>
+
+    <color name="teamsns_feed_text_bg_color">#00ffffff</color>
+
+    <color name="teamsns_feed_bg_color_pressed">#f0f0f0</color>
+    <color name="teamsns_feed_bg_color">#ffffff</color>
+
+    <color name="teamsns_blank_write_color">#15d1a5</color>
+    <color name="teamsns_blank_write_color_pressed">#12b891</color>
+    <color name="green">#00ff00</color>
+
+</resources>

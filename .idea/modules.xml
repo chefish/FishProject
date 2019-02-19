@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ActionBarDemo/ActionBarDemo.iml" filepath="$PROJECT_DIR$/ActionBarDemo/ActionBarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActionBarDemo5/ActionBarDemo5.iml" filepath="$PROJECT_DIR$/ActionBarDemo5/ActionBarDemo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actionbardemo2/Actionbardemo2.iml" filepath="$PROJECT_DIR$/Actionbardemo2/Actionbardemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActivityFinishcallback/ActivityFinishcallback.iml" filepath="$PROJECT_DIR$/ActivityFinishcallback/ActivityFinishcallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ActivitySingleTask/ActivitySingleTask.iml" filepath="$PROJECT_DIR$/ActivitySingleTask/ActivitySingleTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AidlClient/AidlClient.iml" filepath="$PROJECT_DIR$/AidlClient/AidlClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AidlServer/AidlServer.iml" filepath="$PROJECT_DIR$/AidlServer/AidlServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BadiDuMapTest/BadiDuMapTest.iml" filepath="$PROJECT_DIR$/BadiDuMapTest/BadiDuMapTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrazyClick/CrazyClick1.iml" filepath="$PROJECT_DIR$/CrazyClick/CrazyClick1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogAndActivity/DialogAndActivity.iml" filepath="$PROJECT_DIR$/DialogAndActivity/DialogAndActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogSingerChoice/DialogSingerChoice.iml" filepath="$PROJECT_DIR$/DialogSingerChoice/DialogSingerChoice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DynamicChangeLayout/DynamicChangeLayout.iml" filepath="$PROJECT_DIR$/DynamicChangeLayout/DynamicChangeLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Edit/Edit.iml" filepath="$PROJECT_DIR$/Edit/Edit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EditClickUp/EditClickUp.iml" filepath="$PROJECT_DIR$/EditClickUp/EditClickUp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EditCursorDemo/EditCursorDemo.iml" filepath="$PROJECT_DIR$/EditCursorDemo/EditCursorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Edittextdemo/Edittextdemo.iml" filepath="$PROJECT_DIR$/Edittextdemo/Edittextdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FishLib/FishLib.iml" filepath="$PROJECT_DIR$/FishLib/FishLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FishProject.iml" filepath="$PROJECT_DIR$/FishProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentDemo1/FragmentDemo1.iml" filepath="$PROJECT_DIR$/FragmentDemo1/FragmentDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentDemo2/FragmentDemo2.iml" filepath="$PROJECT_DIR$/FragmentDemo2/FragmentDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentDemo3/FragmentDemo3.iml" filepath="$PROJECT_DIR$/FragmentDemo3/FragmentDemo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentDemo5/FragmentDemo5.iml" filepath="$PROJECT_DIR$/FragmentDemo5/FragmentDemo5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentStartActivity/FragmentStartActivity.iml" filepath="$PROJECT_DIR$/FragmentStartActivity/FragmentStartActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HintDisable/HintDisable.iml" filepath="$PROJECT_DIR$/HintDisable/HintDisable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpClientDemo2/HttpClientDemo2.iml" filepath="$PROJECT_DIR$/HttpClientDemo2/HttpClientDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Immerse/Immerse.iml" filepath="$PROJECT_DIR$/Immerse/Immerse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeftShiftLike/LeftShiftLike.iml" filepath="$PROJECT_DIR$/LeftShiftLike/LeftShiftLike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListViewHeadChange/ListViewHeadChange.iml" filepath="$PROJECT_DIR$/ListViewHeadChange/ListViewHeadChange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelativeCenter/RelativeCenter.iml" filepath="$PROJECT_DIR$/RelativeCenter/RelativeCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RelativeLayout/RelativeLayout.iml" filepath="$PROJECT_DIR$/RelativeLayout/RelativeLayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextView/TextView.iml" filepath="$PROJECT_DIR$/TextView/TextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextViewDrawable/TextViewDrawable.iml" filepath="$PROJECT_DIR$/TextViewDrawable/TextViewDrawable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toolbar0/Toolbar0.iml" filepath="$PROJECT_DIR$/Toolbar0/Toolbar0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Toolbar1/Toolbar1.iml" filepath="$PROJECT_DIR$/Toolbar1/Toolbar1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewEvent/ViewEvent.iml" filepath="$PROJECT_DIR$/ViewEvent/ViewEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewStubDemo/ViewStubDemo.iml" filepath="$PROJECT_DIR$/ViewStubDemo/ViewStubDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewStubDemo1/ViewStubDemo1.iml" filepath="$PROJECT_DIR$/ViewStubDemo1/ViewStubDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Viewstub2/Viewstub2.iml" filepath="$PROJECT_DIR$/Viewstub2/Viewstub2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbaraddview/actionbaraddview.iml" filepath="$PROJECT_DIR$/actionbaraddview/actionbaraddview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlclient1/aidlclient1.iml" filepath="$PROJECT_DIR$/aidlclient1/aidlclient1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlclient3/aidlclient3.iml" filepath="$PROJECT_DIR$/aidlclient3/aidlclient3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlserver1/aidlserver1.iml" filepath="$PROJECT_DIR$/aidlserver1/aidlserver1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlserver2/aidlserver2.iml" filepath="$PROJECT_DIR$/aidlserver2/aidlserver2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aidlserver3/aidlserver3.iml" filepath="$PROJECT_DIR$/aidlserver3/aidlserver3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/animation1/animation1.iml" filepath="$PROJECT_DIR$/animation1/animation1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chatListDemo/chatListDemo.iml" filepath="$PROJECT_DIR$/chatListDemo/chatListDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentDemo4/fragmentDemo4.iml" filepath="$PROJECT_DIR$/fragmentDemo4/fragmentDemo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/likeinputmethodeffect/likeinputmethodeffect.iml" filepath="$PROJECT_DIR$/likeinputmethodeffect/likeinputmethodeffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lockdemo/lockdemo.iml" filepath="$PROJECT_DIR$/lockdemo/lockdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pullToRefreshTest/pullToRefreshTest.iml" filepath="$PROJECT_DIR$/pullToRefreshTest/pullToRefreshTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remoteservice/remoteservice.iml" filepath="$PROJECT_DIR$/remoteservice/remoteservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scrollToorBy/scrollToorBy.iml" filepath="$PROJECT_DIR$/scrollToorBy/scrollToorBy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialdemo/serialdemo.iml" filepath="$PROJECT_DIR$/serialdemo/serialdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicedemo/servicedemo.iml" filepath="$PROJECT_DIR$/servicedemo/servicedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleGridViewTest/simpleGridViewTest.iml" filepath="$PROJECT_DIR$/simpleGridViewTest/simpleGridViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test1/test1.iml" filepath="$PROJECT_DIR$/test1/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagedemo0/viewpagedemo0.iml" filepath="$PROJECT_DIR$/viewpagedemo0/viewpagedemo0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yixininstal/yixininstal.iml" filepath="$PROJECT_DIR$/yixininstal/yixininstal.iml" />
+    </modules>
+  </component>
+</project>

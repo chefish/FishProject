@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teamsns_delete_btn_color_pressed">#00b17d</color>
+    <color name="teamsns_delete_btn_color">#16dbad</color>
+
+    <color name="teamsns_post_write_send_enable">#ff0000</color>
+    <color name="teamsns_post_write_send">#cccccc</color>
+
+    <color name="whiter">#ffffff</color>
+    <color name="gray">#f0f0f0</color>
+    <color name="color1">#00ffff</color>
+</resources>

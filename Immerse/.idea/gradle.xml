@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../ActionBarDemo" />
+            <option value="$PROJECT_DIR$/../ActionBarDemo5" />
+            <option value="$PROJECT_DIR$/../Actionbardemo2" />
+            <option value="$PROJECT_DIR$/../ActivityFinishcallback" />
+            <option value="$PROJECT_DIR$/../ActivitySingleTask" />
+            <option value="$PROJECT_DIR$/../AidlClient" />
+            <option value="$PROJECT_DIR$/../AidlServer" />
+            <option value="$PROJECT_DIR$/../BadiDuMapTest" />
+            <option value="$PROJECT_DIR$/../CrazyClick" />
+            <option value="$PROJECT_DIR$/../Cursorrightdemo" />
+            <option value="$PROJECT_DIR$/../DialogAndActivity" />
+            <option value="$PROJECT_DIR$/../DialogSingerChoice" />
+            <option value="$PROJECT_DIR$/../DynamicChangeLayout" />
+            <option value="$PROJECT_DIR$/../Edit" />
+            <option value="$PROJECT_DIR$/../EditClickUp" />
+            <option value="$PROJECT_DIR$/../Edittextdemo" />
+            <option value="$PROJECT_DIR$/../FishLib" />
+            <option value="$PROJECT_DIR$/../FragmentDemo1" />
+            <option value="$PROJECT_DIR$/../FragmentDemo2" />
+            <option value="$PROJECT_DIR$/../FragmentDemo3" />
+            <option value="$PROJECT_DIR$/../FragmentDemo5" />
+            <option value="$PROJECT_DIR$/../FragmentStartActivity" />
+            <option value="$PROJECT_DIR$/../HintDisable" />
+            <option value="$PROJECT_DIR$/../HttpClientDemo2" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../LeftShiftLike" />
+            <option value="$PROJECT_DIR$/../ListViewHeadChange" />
+            <option value="$PROJECT_DIR$/../ListviewHead" />
+            <option value="$PROJECT_DIR$/../PopUpWindowDemo" />
+            <option value="$PROJECT_DIR$/../RelativeCenter" />
+            <option value="$PROJECT_DIR$/../RelativeLayout" />
+            <option value="$PROJECT_DIR$/../Test" />
+            <option value="$PROJECT_DIR$/../TextView" />
+            <option value="$PROJECT_DIR$/../TextViewDrawable" />
+            <option value="$PROJECT_DIR$/../ViewEvent" />
+            <option value="$PROJECT_DIR$/../ViewStubDemo" />
+            <option value="$PROJECT_DIR$/../ViewStubDemo1" />
+            <option value="$PROJECT_DIR$/../Viewstub2" />
+            <option value="$PROJECT_DIR$/../aidlclient1" />
+            <option value="$PROJECT_DIR$/../aidlserver1" />
+            <option value="$PROJECT_DIR$/../aidlserver2" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../chatListDemo" />
+            <option value="$PROJECT_DIR$/../fragmentDemo4" />
+            <option value="$PROJECT_DIR$/../lockdemo" />
+            <option value="$PROJECT_DIR$/../pullToRefreshTest" />
+            <option value="$PROJECT_DIR$/../remoteservice" />
+            <option value="$PROJECT_DIR$/../scrollToorBy" />
+            <option value="$PROJECT_DIR$/../serialdemo" />
+            <option value="$PROJECT_DIR$/../servicedemo" />
+            <option value="$PROJECT_DIR$/../simpleGridViewTest" />
+            <option value="$PROJECT_DIR$/../test1" />
+            <option value="$PROJECT_DIR$/../viewpagedemo0" />
+            <option value="$PROJECT_DIR$/../yixininstal" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
+

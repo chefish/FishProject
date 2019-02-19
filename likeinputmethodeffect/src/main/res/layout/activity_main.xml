@@ -1,0 +1,54 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/keyboard"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:background="#00ff00"
+        android:text="我是键盘"></TextView>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/keyboard"
+        android:background="#7777ff">
+
+        <LinearLayout
+            android:id="@+id/real_layout"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#ff0000"
+                android:text="@string/hello_world" />
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#ffff00"
+                android:text="@string/hello_world" />
+
+
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="200dp"
+                android:layout_height="200dp"
+                android:background="#ff00ff"
+                android:text="@string/hello_world" />
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+</RelativeLayout>
